@@ -6,3 +6,4 @@
   2. Move mouse - Shift the sign cube (horizontal direction)
   3. Press '←/→' key - Move the yellow person(horizontal direction)
 * Example：
+![example](https://github.com/Tiffanyzth/Computer-Graphics---Project/blob/master/img.png)
