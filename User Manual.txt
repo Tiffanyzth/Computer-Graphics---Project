@@ -1,0 +1,3 @@
+1. Press 'A' key - Start/Stop the animation
+2. Move mouse - Shift the sign cube (horizontal direction)
+3.Press '¡û/¡ú' key - Move the yellow person(horizontal direction)
