@@ -1,4 +1,4 @@
-# Computer-Graphics---Project
+# Computer-Graphics-Project
 
 * AIM: record the past projects
 * Guide: 
